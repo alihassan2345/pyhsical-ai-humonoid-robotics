@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat physical-ai/docs/intro/humanoid-robotics-ecosystem.md)",
+      "Bash(echo \"# Overview of Humanoid Robotics Ecosystem\n\n## Introduction\n\n## Major Players and Platforms\n\n## Hardware Platforms\n\n## Software Frameworks\n\n## Research Institutions and Companies\n\n## Future Trends\n\n## Summary\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
