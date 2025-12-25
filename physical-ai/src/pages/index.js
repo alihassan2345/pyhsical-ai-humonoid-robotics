@@ -52,7 +52,7 @@ export default function Home() {
 
       {/* FOOTER CTA */}
       <footer style={styles.footer}>
-        <Link to="/docs/introduction/intro">
+        <Link to="/docs/intro">
           Start Reading →
         </Link>
       </footer>
