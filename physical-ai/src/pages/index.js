@@ -18,7 +18,7 @@ export default function Home() {
           Vision-Language-Action systems, and embodied intelligence.
         </p>
 
-        <Link to="/ docs/intro" style={styles.primaryLink}>
+        <Link to="/docs/intro" style={styles.primaryLink}>
           Read the Introduction →
         </Link>
       </header>
