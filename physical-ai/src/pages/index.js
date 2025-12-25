@@ -37,47 +37,7 @@ export default function Home() {
         </section>
 
         {/* CONTENTS */}
-        <section style={styles.section}>
-          <h2 style={styles.heading}>Contents</h2>
-
-          <ol style={styles.list}>
-            <li>
-              <Link to="/docs/ros2-foundations/module-1-ros2">
-                ROS 2 Foundations
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/simulation/module-2-simulation">
-                Simulation & Digital Twins
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/hardware-basics/module-3-hardware">
-                Hardware Foundations
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/vla-systems/module-4-vla-foundations">
-                Vision–Language–Action Systems
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/advanced-ai-control/module-5-advanced-ai">
-                Advanced AI & Motion Control
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/humanoid-design/module-6-humanoid-design">
-                Designing Humanoid Robots
-              </Link>
-            </li>
-            <li>
-              <Link to="/docs/appendix/glossary">
-                Appendix & References
-              </Link>
-            </li>
-          </ol>
-        </section>
+        
 
         {/* AUDIENCE */}
         <section style={styles.section}>
